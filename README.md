@@ -15,4 +15,8 @@
 -- Conditions
 - Logical Operators (Mantıksal Operatörler) -> bool
 - Logical Conjuction (Mantıksal Bağlaçlar) -> ==, !=, >, >=,<,<=
+- Conditionals (if - elif - else)
+
+-- Loops (Döngüler (in -while - for))
+- ForAndInLoop
 - 
