@@ -1,7 +1,4 @@
-# Python
-Python Dersleri
-
-Konu Başlıkları
+# Python Lessons
 1- Variables
 2- Maths
 3- Strings
