@@ -7,5 +7,5 @@
 -  Lists
 -  Tuple(Demetler)
 -  Dictionary
-- 
+-  Inputs
 
