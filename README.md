@@ -5,5 +5,7 @@
 -  TypeConversions
 -  PrintAndFormat
 -  Lists
-- Tuple(Demetler)
+-  Tuple(Demetler)
+-  Dictionary
+- 
 
