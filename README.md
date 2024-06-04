@@ -20,4 +20,4 @@
 -- Loops (Döngüler (in -while - for))
 - ForAndInLoop
 - WhileLoop -> range() fonksiyonunun kullanımı
-- 
+- Break ve Continue Kullanımı
