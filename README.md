@@ -19,4 +19,5 @@
 
 -- Loops (Döngüler (in -while - for))
 - ForAndInLoop
+- WhileLoop -> range() fonksiyonunun kullanımı
 - 
