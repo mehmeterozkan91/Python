@@ -21,3 +21,4 @@
 - ForAndInLoop
 - WhileLoop -> range() fonksiyonunun kullanımı
 - Break ve Continue Kullanımı
+- List comprehension (List'e Atama)
